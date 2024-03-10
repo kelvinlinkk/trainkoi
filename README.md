@@ -4,6 +4,8 @@
 
 ## 錦鯉圖片資料集Koi Dataset
 
+> 自[koi](https://github.com/kelvinlinkk/koi)併入
+
 * 簡介
 
     這是一個錦鯉魚的資料集，整理自自行拍攝之影像及Kaggle [train-koi](https://www.kaggle.com/datasets/dangtantai/trainkoi)、[Dataset Images Koi](https://www.kaggle.com/datasets/farizp/dataset-images-koi)、[Koi_Fish](https://www.kaggle.com/datasets/quchphhng/koifish)，並使用了[Roboflow](https://app.roboflow.com/)擷取了來自"[Sanke Koi Selection | How to select a good Sanke Koi?](https://www.youtube.com/watch?v=MXO7JGjLUDg)"、"[Kohaku Koi variety in 8 minutes | Koi documentary](https://www.youtube.com/watch?v=S7FvNtXAtl0)"、"[SHOWA KOI variety 5 minutes | Koi documentary](https://www.youtube.com/watch?v=E5iOAw_By1I)"影片中的圖片進行智慧標記做為樣本使用。
