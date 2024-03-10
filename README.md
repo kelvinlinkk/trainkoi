@@ -1,20 +1,26 @@
 # 錦鯉魚AI辨識分類專案 KOI Detection Project
 
-> 該專案將錦鯉依不同類別等級進行區分，利用YOLOv7 PyTorch訓練，以利於消費者進行識別
+* 簡介
+
+    本專案將[錦鯉](https://en.wikipedia.org/wiki/Koi)依不同類別等級進行區分，利用[YOLOv7](https://github.com/WongKinYiu/yolov7)、[PyTorch](https://pytorch.org/)訓練，以利於消費者進行識別。
+
+    ![alt text](document/image.png)
 
 * 動機
 
     鑒於國人對錦鯉魚種類集價位認知不足，本研究計畫開發應用程式並建置錦鯉魚種類辨識系統，並增加品質鑑定功能，針對錦鯉魚常見疾病作辨識，讓喜歡錦鯉魚的國人透過本開發軟體獲得更多錦鯉知識，從而學習錦鯉魚飼養與疾病防治等議題。
 
+    ![alt text](document/koi.jpg)
+
 * 目的
 
-    以PyTorch還有YOLOv7(You Only Look Once version 7)等開源程式碼為基底開發的錦鯉魚辨識系統，針對鯉魚玩賞者，開發功能完整的應用程式，可依花紋、顏色判別鯉魚的品種，標註大小，分析可能的疾病，並依先前市場各種鯉魚的出售價格，做出相對的估價。
+    以[YOLOv7](https://github.com/WongKinYiu/yolov7)、[PyTorch](https://pytorch.org/)等開源程式碼為基底開發的錦鯉魚辨識系統，針對鯉魚玩賞者，開發功能完整的應用程式，可依花紋、顏色判別鯉魚的品種，標註大小，分析可能的疾病，並依先前市場各種鯉魚的出售價格，做出相對的估價。
 
 
 
 ## 錦鯉圖片資料集Koi Dataset
 
-> 自[koi](https://github.com/kelvinlinkk/koi)併入，可以點選[超連結](https://github.com/kelvinlinkk/koi)回顧舊版頁面
+(自[koi](https://github.com/kelvinlinkk/koi)併入，可以點選[超連結](https://github.com/kelvinlinkk/koi)回顧舊版頁面)
 
 * 簡介
 
