@@ -30,15 +30,15 @@
 
     |已標記|中文全名|英文名稱|已標記|中文全名|英文名稱|
     |---|---|---|---|---|---|
-    |F|淺黃|Asagi|T|大白|Kohaku|
-    |T|大正三色|Taisho Sanke|T|昭和三色|Showa Sanke|
-    |F|寫類|Utsurimono|F|別光|Bekko|
-    |F|衣|Koromo|F|五色|Goshiki|
-    |F|光無地|Hikarimuji|F|光模樣|Hikarimoyo|
-    |F|丹頂|Tancho|F|金銀鱗|Kinginrin|
-    |F|秋翠|Shusui|F|孔雀|Kujaku|
-    |F|九紋龍|Kumonryu|F|變種鯉|Kawarigoi|
-    |F|逸品鯉|Unique Koi|F|德國鏡鯉|Doitsu|
+    |F|淺黃|Asagi|F|金銀鱗|Kin-Ginrin|
+    |F|別光|Bekko|T|紅白|Kohaku|
+    |F|德國鏡鯉|Doitsu|T|三色|Sanke|
+    |F|五色|Ghosiki|T|大正|Showa|
+    |F|衣錦鯉|Goromo|F|秋翠|Shusui|
+    |F|光無地|Hikarimuji|F|丹頂|Tancho|
+    |F|光模樣|Hikarimoyo|F|白寫|Utsuri|
+    |F|光寫類|Hikariutsuri|F|大和錦|Yamato Nishiki|
+    |F|鹿子|Kanoko koi|F|變種鯉|Kawarimono|
 
 ## 訓練結果
 
