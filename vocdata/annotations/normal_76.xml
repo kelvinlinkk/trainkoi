@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>normal_76.jpg</filename>
+	<path>C:\darknetYolo\yolo\training\vocdata\images\normal_76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>571</width>
+		<height>844</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>41</ymin>
+			<xmax>429</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>

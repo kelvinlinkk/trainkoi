@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sun_17.jpg</filename>
+	<path>C:\darknetYolo\yolo\training\vocdata\images\sun_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>176</width>
+		<height>286</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>6</ymin>
+			<xmax>153</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

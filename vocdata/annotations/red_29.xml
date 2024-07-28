@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>red_29.jpg</filename>
+	<path>C:\darknetYolo\yolo\training\vocdata\images\red_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3068</width>
+		<height>4565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>97</ymin>
+			<xmax>2643</xmax>
+			<ymax>4454</ymax>
+		</bndbox>
+	</object>
+</annotation>

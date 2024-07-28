@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>white_25.jpg</filename>
+	<path>C:\darknetYolo\yolo\training\vocdata\images\white_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1583</width>
+		<height>2324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>37</ymin>
+			<xmax>1383</xmax>
+			<ymax>2298</ymax>
+		</bndbox>
+	</object>
+</annotation>
